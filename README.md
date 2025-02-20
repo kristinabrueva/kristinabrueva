@@ -1,7 +1,7 @@
 ### Hi there, I'm Kristina 🖖
 
-- 👩‍💻   Software Developer and a graduate of the Bachelor of Engineering (Honours)
-- 💻   Tech skills include: Typescript/JavaScript, React, Next.js, Node.js, Elixir, PostgreSQL, MongoDB, REST API, GraphQl, Unit and Integration Testing
+- 👩‍💻   Passionate Full Stack Software Developer and a graduate of the Bachelor of Engineering (Honours)
+- 💻   Tech skills include: Typescript/JavaScript, React, Next.js, Node.js, Elixir, PostgreSQL, Clickhouse, MongoDB, REST API, GraphQl, Unit and Integration Testing
 - 🐱   Career changer with background of running my own business as a pet portrait artist/graphic designer 
 - 🎀   Mentor supporting women in IT
 
